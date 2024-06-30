@@ -48,23 +48,4 @@ Technologies Used
     Vite
     CSS Modules
 
-Folder Structure
 
-The project structure is organized as follows:
-
-
-
-TS_EventPilot/
-│
-├── public/             # Public assets and static files
-├── src/                # Source files
-│   ├── components/     # React components
-│   ├── store/          # Redux store configuration
-│   ├── utils/          # Utility functions
-│   ├── App.tsx         # Main application component
-│   ├── index.tsx       # Entry point
-│   └── ...             # Other application files
-├── .gitignore          # Git ignore file
-├── README.md           # Project documentation
-├── package.json        # NPM package configuration
-└── tsconfig.json       # TypeScript configuration
